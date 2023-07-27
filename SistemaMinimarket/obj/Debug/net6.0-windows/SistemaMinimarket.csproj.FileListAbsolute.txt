@@ -1,0 +1,14 @@
+U:\UCE\Semestre2023-2023\Marcos de desarrollo\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.csproj.AssemblyReference.cache
+U:\UCE\Semestre2023-2023\Marcos de desarrollo\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.Form1.resources
+U:\UCE\Semestre2023-2023\Marcos de desarrollo\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.csproj.GenerateResource.cache
+U:\UCE\Semestre2023-2023\Marcos de desarrollo\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.GeneratedMSBuildEditorConfig.editorconfig
+U:\UCE\Semestre2023-2023\Marcos de desarrollo\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.AssemblyInfoInputs.cache
+U:\UCE\Semestre2023-2023\Marcos de desarrollo\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.AssemblyInfo.cs
+U:\UCE\Semestre2023-2023\Marcos de desarrollo\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.csproj.CoreCompileInputs.cache
+C:\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.csproj.AssemblyReference.cache
+C:\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.Form1.resources
+C:\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.csproj.GenerateResource.cache
+C:\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.AssemblyInfoInputs.cache
+C:\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.AssemblyInfo.cs
+C:\Minimarket\SistemaMinimarket\obj\Debug\net6.0-windows\SistemaMinimarket.csproj.CoreCompileInputs.cache
